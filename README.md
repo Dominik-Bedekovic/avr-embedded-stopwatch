@@ -97,5 +97,3 @@ The project uses registers such as:
 For register definitions and hardware behavior, see the official **ATmega16A datasheet**:
 
 [ATmega16A Datasheet - Microchip](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8154-8-bit-AVR-ATmega16A_Datasheet.pdf)
-
-This repository contains university laboratory exercises and is intended as a compact demonstration of embedded C fundamentals rather than a production-ready stopwatch implementation.
