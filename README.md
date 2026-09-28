@@ -98,8 +98,4 @@ For register definitions and hardware behavior, see the official **ATmega16A dat
 
 [ATmega16A Datasheet - Microchip](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8154-8-bit-AVR-ATmega16A_Datasheet.pdf)
 
-> A local Windows path such as `file:///C:/Users/.../ATMega16A-datasheet.pdf` only works on the computer where that file exists, so the public Microchip datasheet link is used here instead.
-
-## Notes
-
 This repository contains university laboratory exercises and is intended as a compact demonstration of embedded C fundamentals rather than a production-ready stopwatch implementation.
